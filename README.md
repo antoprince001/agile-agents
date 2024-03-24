@@ -13,5 +13,11 @@ Agile Agents, an application designed to streamline project management by utiliz
 - **Crew AI**: Framework for orchestrating role-playing, autonomous AI agents. 
 - **Chainlit**: Python package to build production ready Conversational AI or agentic applications.
 
+## UI Screenshots
 
+#### Home Page
+![Home Page](https://github.com/antoprince001/agile-agents/blob/main/assets/home_page.png)
+
+#### Conversation Flow
+![Conversation](https://github.com/antoprince001/agile-agents/blob/main/assets/conversation.png)
 
